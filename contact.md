@@ -1,1 +1,1 @@
-Kontakt: mo.code@hotami.com
+contact: mycontacte@hotami.com
