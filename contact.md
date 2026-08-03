@@ -1,1 +1,2 @@
-Kontakt: mo.code@hotami.com
+contact: mycontacte@hotami.com
+Phone: 0710001000
